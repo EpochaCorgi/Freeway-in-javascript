@@ -1,4 +1,4 @@
-# Nome do meu projeto
+# Freeway em JavaScript
 
 Projeto feito como parte da formação iniciante em programação da Alura.
 
