@@ -1,6 +1,6 @@
 # Nome do meu projeto
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto feito como parte da formação iniciante em programação da Alura.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
