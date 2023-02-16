@@ -7,7 +7,7 @@ Projeto feito como parte da formação iniciante em programação da Alura.
 | :sparkles: Nome        | **Freeway**
 | :label: Tecnologias | Javascript, HTML
 | :rocket: URL         | https://editor.p5js.org/rogi1992/sketches/HN4pYw80A
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :fire: Desafio     | https://cursos.alura.com.br/course/javascript-listas-lacos
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://i.snipboard.io/YxNvrg.jpg#vitrinedev)
